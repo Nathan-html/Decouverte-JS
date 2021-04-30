@@ -1,0 +1,31 @@
+header{
+    background: rgb(242, 243, 248);
+}
+
+section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer{
+    background: rgb(242, 243, 248);
+}
+
+h1{
+    padding: 25px;
+    margin: 25px;
+    margin: auto;
+}
+
+h2{
+    width: 50%;
+    min-width: 200px;
+    margin: auto;
+}
+
+p{
+    width: 75%;
+    min-width: 200px;
+    margin: auto;
+    padding: 5px;
+}
